@@ -1,0 +1,17 @@
+body {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.container-fluid {
+  max-width: 680px;
+}
+
+input {
+  max-width: 250px;
+}
+
+h3
+{
+	color: violet;
+}
